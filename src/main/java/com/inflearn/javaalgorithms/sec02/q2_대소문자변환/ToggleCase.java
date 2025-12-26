@@ -1,4 +1,4 @@
-package com.inflearn.javaalgorithms.sec02.q2;
+package com.inflearn.javaalgorithms.sec02.q2_대소문자변환;
 
 import java.util.Scanner;
 

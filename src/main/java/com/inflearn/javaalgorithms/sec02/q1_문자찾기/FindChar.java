@@ -1,4 +1,4 @@
-package com.inflearn.javaalgorithms.sec02.q1;
+package com.inflearn.javaalgorithms.sec02.q1_문자찾기;
 
 import java.util.Scanner;
 
