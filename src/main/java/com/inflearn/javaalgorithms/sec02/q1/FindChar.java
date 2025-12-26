@@ -1,4 +1,4 @@
-package com.inflearn.javaalgorithms.sec02;
+package com.inflearn.javaalgorithms.sec02.q1;
 
 import java.util.Scanner;
 
