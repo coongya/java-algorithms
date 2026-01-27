@@ -20,3 +20,4 @@
 | # | 문제 | 난이도 | 풀이 |
 |---|------|--------|------|
 | 1 | [Two Sum](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/Solution.java) |
+| 2 | [Add Two Numbers](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/README.md) | Medium | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/Solution.java) |
