@@ -17,8 +17,18 @@
 
 ### LeetCode
 
+| #  | 문제 | 난이도 | 풀이 |
+|----|------|--------|------|
+| 1  | [Two Sum](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/Solution.java) |
+| 2  | [Add Two Numbers](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/README.md) | Medium | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/Solution.java) |
+| 26 | [Remove Duplicates from Sorted Array](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/Solution.java) |
+
+---
+
+### Kakao
+
+#### 2024 WINTER INTERNSHIP
+
 | # | 문제 | 난이도 | 풀이 |
 |---|------|--------|------|
-| 1 | [Two Sum](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/Solution.java) |
-| 2 | [Add Two Numbers](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/README.md) | Medium | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/Solution.java) |
-| 3 | [Remove Duplicates from Sorted Array](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/Solution.java) |
+| 1 | [가장 많이 받은 선물](src/main/java/com/kakao/javaalgorithms/y2024_winter_internship/q1_가장많이받은선물/README.md) | Lv.1 | [Solution.java](src/main/java/com/kakao/javaalgorithms/y2024_winter_internship/q1_가장많이받은선물/Solution.java) |
