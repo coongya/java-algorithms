@@ -27,6 +27,12 @@
 
 ### Kakao
 
+#### 2023 BLIND RECRUITMENT
+
+| # | 문제 | 난이도 | 풀이 |
+|---|------|--------|------|
+| 1 | [개인정보 수집 유효기간](src/main/java/com/kakao/javaalgorithms/y2023_blind_recruitment/q1_개인정보수집유효기간/README.md) | Lv.1 | [Solution.java](src/main/java/com/kakao/javaalgorithms/y2023_blind_recruitment/q1_개인정보수집유효기간/Solution.java) |
+
 #### 2024 WINTER INTERNSHIP
 
 | # | 문제 | 난이도 | 풀이 |
