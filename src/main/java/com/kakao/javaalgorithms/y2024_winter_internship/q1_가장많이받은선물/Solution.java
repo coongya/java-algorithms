@@ -1,10 +1,13 @@
 package com.kakao.javaalgorithms.y2024_winter_internship.q1_가장많이받은선물;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Solution {
 
+    // 시간 복잡도 : O(n² + g) - 선물 지수, 선물 받을 사람 결정할 때 이중 loop
+    // 공간 복잡도 : O(n^2) - 주고받은 선물 내역 이차원 배열
     public int solution(String[] friends, String[] gifts) {
         int answer = 0;
         // 친구 수
@@ -52,5 +55,43 @@ public class Solution {
             }
         }
         return answer;
+    }
+
+    // 시간 복잡도 : O(n² + g) - 다음달에 받을 선물 계산 이중 loop
+    // 공간 복잡도 : O(n^2) - 주고 받은 선물 내역 이차원 배열
+    public int solution2(String[] friends, String[] gifts) {
+        // 친구 수
+        int count = friends.length;
+        // 친구 이름과 배열 인덱스 매핑
+        Map<String, Integer> nameMap = new HashMap<>();
+        for (int i = 0; i < count; i++) {
+            nameMap.put(friends[i], i);
+        }
+        // 주고받은 선물 내역, 선물 지수
+        int[][] giftMatrix = new int[count][count];
+        int[] giftIndex = new int[count];
+        for (String gift : gifts) {
+            String[] giftArray = gift.split(" ");
+            int from = nameMap.get(giftArray[0]);
+            int to = nameMap.get(giftArray[1]);
+            // 주고받은 선물 내역 저장
+            giftMatrix[from][to] += 1;
+            // 선물 지수 계산
+            giftIndex[from]++;
+            giftIndex[to]--;
+        }
+        // 다음달에 받을 선물
+        int[] nextMonthGifts = new int[count];
+        for (int i = 0; i < count; i++) {
+            for (int j = 0; j < count; j++) {
+                if (giftMatrix[i][j] > giftMatrix[j][i]) {
+                    nextMonthGifts[i] += 1;
+                } else if (giftMatrix[i][j] == giftMatrix[j][i] && giftIndex[i] > giftIndex[j]) {
+                    nextMonthGifts[i] += 1;
+                }
+            }
+        }
+        // 다음달에 가장 선물을 많이 받을 사람의 선물 개수
+        return Arrays.stream(nextMonthGifts).max().orElse(0);
     }
 }
