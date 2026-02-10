@@ -38,3 +38,13 @@
 | # | 문제 | 난이도 | 풀이 |
 |---|------|--------|------|
 | 1 | [가장 많이 받은 선물](src/main/java/com/kakao/javaalgorithms/y2024_winter_internship/q1_가장많이받은선물/README.md) | Lv.1 | [Solution.java](src/main/java/com/kakao/javaalgorithms/y2024_winter_internship/q1_가장많이받은선물/Solution.java) |
+
+---
+
+### Toss
+
+#### 2022 NEXT
+
+| # | 문제 | 풀이 |
+|---|------|------|
+| 1 | [멋쟁이 숫자](src/main/java/com/toss/javaalgorithms/y2022_next/q1_멋쟁이숫자/README.md) | [Solution.java](src/main/java/com/toss/javaalgorithms/y2022_next/q1_멋쟁이숫자/Solution.java) |
