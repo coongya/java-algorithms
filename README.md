@@ -22,6 +22,7 @@
 | 1  | [Two Sum](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q1_TwoSum/Solution.java) |
 | 2  | [Add Two Numbers](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/README.md) | Medium | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q2_AddTwoNumbers/Solution.java) |
 | 26 | [Remove Duplicates from Sorted Array](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q26_RemoveDuplicatesfromSortedArray/Solution.java) |
+| 1047 | [Remove All Adjacent Duplicates In String](src/main/java/com/leetcode/javaalgorithms/q1047_RemoveAllAdjacentDuplicatesInString/README.md) | Easy | [Solution.java](src/main/java/com/leetcode/javaalgorithms/q1047_RemoveAllAdjacentDuplicatesInString/Solution.java) |
 
 ---
 
