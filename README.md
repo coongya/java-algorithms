@@ -19,6 +19,25 @@
 | 9 | [숫자만 추출](src/main/java/com/inflearn/javaalgorithms/sec02/q9_숫자만추출/README.md) | [ExtractDigits.java](src/main/java/com/inflearn/javaalgorithms/sec02/q9_숫자만추출/ExtractDigits.java) |
 | 10 | [가장 짧은 문자거리](src/main/java/com/inflearn/javaalgorithms/sec02/q10_가장짧은문자거리/README.md) | [ShortestDistanceToChar.java](src/main/java/com/inflearn/javaalgorithms/sec02/q10_가장짧은문자거리/ShortestDistanceToChar.java) |
 | 11 | [문자열 압축](src/main/java/com/inflearn/javaalgorithms/sec02/q11_문자열압축/README.md) | [RunLengthEncoding.java](src/main/java/com/inflearn/javaalgorithms/sec02/q11_문자열압축/RunLengthEncoding.java) |
+| 12 | [암호](src/main/java/com/inflearn/javaalgorithms/sec02/q12_암호/README.md) | [DecodeSignal.java](src/main/java/com/inflearn/javaalgorithms/sec02/q12_암호/DecodeSignal.java) |
+
+---
+
+### Section 03. Array (1,2차원 배열)
+
+| # | 문제 | 풀이 |
+|---|------|------|
+| 1 | [큰 수 출력하기](src/main/java/com/inflearn/javaalgorithms/sec03/q1_큰수출력하기/README.md) | [PrintGreaterNumbers.java](src/main/java/com/inflearn/javaalgorithms/sec03/q1_큰수출력하기/PrintGreaterNumbers.java) |
+| 2 | [보이는 학생](src/main/java/com/inflearn/javaalgorithms/sec03/q2_보이는학생/README.md) | [CountVisibleStudents.java](src/main/java/com/inflearn/javaalgorithms/sec03/q2_보이는학생/CountVisibleStudents.java) |
+| 3 | [가위 바위 보](src/main/java/com/inflearn/javaalgorithms/sec03/q3_가위바위보/README.md) | [RockPaperScissors.java](src/main/java/com/inflearn/javaalgorithms/sec03/q3_가위바위보/RockPaperScissors.java) |
+| 4 | [피보나치 수열](src/main/java/com/inflearn/javaalgorithms/sec03/q4_피보나치수열/README.md) | [Fibonacci.java](src/main/java/com/inflearn/javaalgorithms/sec03/q4_피보나치수열/Fibonacci.java) |
+| 5 | [소수(에라토스테네스 체)](src/main/java/com/inflearn/javaalgorithms/sec03/q5_소수/README.md) | [SieveOfEratosthenes.java](src/main/java/com/inflearn/javaalgorithms/sec03/q5_소수/SieveOfEratosthenes.java) |
+| 6 | [뒤집은 소수](src/main/java/com/inflearn/javaalgorithms/sec03/q6_뒤집은소수/README.md) | [ReversedPrimes.java](src/main/java/com/inflearn/javaalgorithms/sec03/q6_뒤집은소수/ReversedPrimes.java) |
+| 7 | [점수계산](src/main/java/com/inflearn/javaalgorithms/sec03/q7_점수계산/README.md) | [CalculateScore.java](src/main/java/com/inflearn/javaalgorithms/sec03/q7_점수계산/CalculateScore.java) |
+| 8 | [등수구하기](src/main/java/com/inflearn/javaalgorithms/sec03/q8_등수구하기/README.md) | [CalculateRanks.java](src/main/java/com/inflearn/javaalgorithms/sec03/q8_등수구하기/CalculateRanks.java) |
+| 9 | [격자판 최대합](src/main/java/com/inflearn/javaalgorithms/sec03/q9_격자판최대합/README.md) | [MaxSumInGrid.java](src/main/java/com/inflearn/javaalgorithms/sec03/q9_격자판최대합/MaxSumInGrid.java) |
+| 10 | [봉우리](src/main/java/com/inflearn/javaalgorithms/sec03/q10_봉우리/README.md) | [CountPeaks.java](src/main/java/com/inflearn/javaalgorithms/sec03/q10_봉우리/CountPeaks.java) |
+| 11 | [임시반장 정하기](src/main/java/com/inflearn/javaalgorithms/sec03/q11_임시반장정하기/README.md) | [ElectClassPresident.java](src/main/java/com/inflearn/javaalgorithms/sec03/q11_임시반장정하기/ElectClassPresident.java) |
 
 ---
 
