@@ -13,6 +13,12 @@
 | 3 | [문장 속 단어](src/main/java/com/inflearn/javaalgorithms/sec02/q3_문장속단어/README.md) | [LongestWord.java](src/main/java/com/inflearn/javaalgorithms/sec02/q3_문장속단어/LongestWord.java) |
 | 4 | [단어 뒤집기](src/main/java/com/inflearn/javaalgorithms/sec02/q4_단어뒤집기/README.md) | [ReverseWord.java](src/main/java/com/inflearn/javaalgorithms/sec02/q4_단어뒤집기/ReverseWord.java) |
 | 5 | [특정 문자 뒤집기](src/main/java/com/inflearn/javaalgorithms/sec02/q5_특정문자뒤집기/README.md) | [ReverseOnlyLetters.java](src/main/java/com/inflearn/javaalgorithms/sec02/q5_특정문자뒤집기/ReverseOnlyLetters.java) |
+| 6 | [중복문자제거](src/main/java/com/inflearn/javaalgorithms/sec02/q6_중복문자제거/README.md) | [RemoveDuplicateChars.java](src/main/java/com/inflearn/javaalgorithms/sec02/q6_중복문자제거/RemoveDuplicateChars.java) |
+| 7 | [회문 문자열](src/main/java/com/inflearn/javaalgorithms/sec02/q7_회문문자열/README.md) | [CheckPalindrome.java](src/main/java/com/inflearn/javaalgorithms/sec02/q7_회문문자열/CheckPalindrome.java) |
+| 8 | [유효한 팰린드롬](src/main/java/com/inflearn/javaalgorithms/sec02/q8_유효한팰린드롬/README.md) | [ValidPalindrome.java](src/main/java/com/inflearn/javaalgorithms/sec02/q8_유효한팰린드롬/ValidPalindrome.java) |
+| 9 | [숫자만 추출](src/main/java/com/inflearn/javaalgorithms/sec02/q9_숫자만추출/README.md) | [ExtractDigits.java](src/main/java/com/inflearn/javaalgorithms/sec02/q9_숫자만추출/ExtractDigits.java) |
+| 10 | [가장 짧은 문자거리](src/main/java/com/inflearn/javaalgorithms/sec02/q10_가장짧은문자거리/README.md) | [ShortestDistanceToChar.java](src/main/java/com/inflearn/javaalgorithms/sec02/q10_가장짧은문자거리/ShortestDistanceToChar.java) |
+| 11 | [문자열 압축](src/main/java/com/inflearn/javaalgorithms/sec02/q11_문자열압축/README.md) | [RunLengthEncoding.java](src/main/java/com/inflearn/javaalgorithms/sec02/q11_문자열압축/RunLengthEncoding.java) |
 
 ---
 
