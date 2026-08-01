@@ -32,7 +32,8 @@ PLATFORM_TITLES = {
 # (등록하지 않으면 "Section 03" 처럼 폴더명 기반 제목으로 표시된다.)
 INFLEARN_SECTIONS = {
     "sec02": "Section 02. String (문자열)",
-    "sec03": "Section 03. Array (1,2차원 배열)"
+    "sec03": "Section 03. Array (1,2차원 배열)",
+    "sec04": "Section 04. Two pointers, Sliding window"
 }
 
 DEFAULT_HEADER = "# Java Algorithms\n\n자바 알고리즘 문제 풀이   \n\n## 목차\n"
