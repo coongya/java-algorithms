@@ -38,6 +38,7 @@
 | 9 | [격자판 최대합](src/main/java/com/inflearn/javaalgorithms/sec03/q9_격자판최대합/README.md) | [MaxSumInGrid.java](src/main/java/com/inflearn/javaalgorithms/sec03/q9_격자판최대합/MaxSumInGrid.java) |
 | 10 | [봉우리](src/main/java/com/inflearn/javaalgorithms/sec03/q10_봉우리/README.md) | [CountPeaks.java](src/main/java/com/inflearn/javaalgorithms/sec03/q10_봉우리/CountPeaks.java) |
 | 11 | [임시반장 정하기](src/main/java/com/inflearn/javaalgorithms/sec03/q11_임시반장정하기/README.md) | [ElectClassPresident.java](src/main/java/com/inflearn/javaalgorithms/sec03/q11_임시반장정하기/ElectClassPresident.java) |
+| 12 | [멘토링](src/main/java/com/inflearn/javaalgorithms/sec03/q12_멘토링/README.md) | [Mentoring.java](src/main/java/com/inflearn/javaalgorithms/sec03/q12_멘토링/Mentoring.java) |
 
 ---
 
