@@ -33,7 +33,8 @@ PLATFORM_TITLES = {
 INFLEARN_SECTIONS = {
     "sec02": "Section 02. String (문자열)",
     "sec03": "Section 03. Array (1,2차원 배열)",
-    "sec04": "Section 04. Two pointers, Sliding window"
+    "sec04": "Section 04. Two pointers, Sliding window",
+    "sec05": "Section 05. HashMap, TreeSet"
 }
 
 DEFAULT_HEADER = "# Java Algorithms\n\n자바 알고리즘 문제 풀이   \n\n## 목차\n"
