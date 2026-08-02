@@ -67,6 +67,26 @@
 
 ---
 
+### Section 06. Stack, Queue
+
+| # | 문제 | 풀이 |
+|---|------|------|
+| 1 | [올바른 괄호](src/main/java/com/inflearn/javaalgorithms/sec06/q1_올바른괄호/README.md) | [ValidParentheses.java](src/main/java/com/inflearn/javaalgorithms/sec06/q1_올바른괄호/ValidParentheses.java) |
+| 2 | [괄호문자제거](src/main/java/com/inflearn/javaalgorithms/sec06/q2_괄호문자제거/README.md) | [RemoveParentheses.java](src/main/java/com/inflearn/javaalgorithms/sec06/q2_괄호문자제거/RemoveParentheses.java) |
+| 3 | [크레인 인형뽑기(카카오)](src/main/java/com/inflearn/javaalgorithms/sec06/q3_크레인인형뽑기/README.md) | [CraneGame.java](src/main/java/com/inflearn/javaalgorithms/sec06/q3_크레인인형뽑기/CraneGame.java) |
+
+---
+
+### Section 07. Sorting and Searching
+
+| # | 문제 | 풀이 |
+|---|------|------|
+| 1 | [선택 정렬](src/main/java/com/inflearn/javaalgorithms/sec07/q1_선택정렬/README.md) | [SelectionSort.java](src/main/java/com/inflearn/javaalgorithms/sec07/q1_선택정렬/SelectionSort.java) |
+| 2 | [버블 정렬](src/main/java/com/inflearn/javaalgorithms/sec07/q2_버블정렬/README.md) | [BubbleSort.java](src/main/java/com/inflearn/javaalgorithms/sec07/q2_버블정렬/BubbleSort.java) |
+| 3 | [삽입 정렬](src/main/java/com/inflearn/javaalgorithms/sec07/q3_삽입정렬/README.md) | [InsertionSort.java](src/main/java/com/inflearn/javaalgorithms/sec07/q3_삽입정렬/InsertionSort.java) |
+
+---
+
 ### LeetCode
 
 | # | 문제 | 난이도 | 풀이 |
