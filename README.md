@@ -55,6 +55,18 @@
 
 ---
 
+### Section 05. HashMap, TreeSet
+
+| # | 문제 | 풀이 |
+|---|------|------|
+| 1 | [학급 회장(해쉬)](src/main/java/com/inflearn/javaalgorithms/sec05/q1_학급회장/README.md) | [CountVotes.java](src/main/java/com/inflearn/javaalgorithms/sec05/q1_학급회장/CountVotes.java) |
+| 2 | [아나그램(해쉬)](src/main/java/com/inflearn/javaalgorithms/sec05/q2_아나그램/README.md) | [CheckAnagram.java](src/main/java/com/inflearn/javaalgorithms/sec05/q2_아나그램/CheckAnagram.java) |
+| 3 | [매출액의 종류](src/main/java/com/inflearn/javaalgorithms/sec05/q3_매출액의종류/README.md) | [CountDistinctSales.java](src/main/java/com/inflearn/javaalgorithms/sec05/q3_매출액의종류/CountDistinctSales.java) |
+| 4 | [모든 아나그램 찾기](src/main/java/com/inflearn/javaalgorithms/sec05/q4_모든아나그램찾기/README.md) | [FindAllAnagrams.java](src/main/java/com/inflearn/javaalgorithms/sec05/q4_모든아나그램찾기/FindAllAnagrams.java) |
+| 5 | [K번째 큰 수](src/main/java/com/inflearn/javaalgorithms/sec05/q5_K번째큰수/README.md) | [KthLargestNumber.java](src/main/java/com/inflearn/javaalgorithms/sec05/q5_K번째큰수/KthLargestNumber.java) |
+
+---
+
 ### LeetCode
 
 | # | 문제 | 난이도 | 풀이 |
